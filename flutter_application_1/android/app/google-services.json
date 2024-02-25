@@ -1,0 +1,33 @@
+{
+  "project_info": {
+    "project_number": "975593935542",
+    "project_id": "guardianapp-9b94f",
+    "storage_bucket": "guardianapp-9b94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975593935542:android:b1341baec632a0a6dc0c17",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "oauth_client": "697167382114-nujuthdosfcij3ii78fb8bec1getr67a.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HWAxex-_sX5lD4VQjvgox74Jz9_Re_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
